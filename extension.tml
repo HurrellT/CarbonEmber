@@ -5,3 +5,7 @@ schema_version = 1
 authors = ["Tomas Hurrell <hurrelltomas@gmail.com>"]
 description = "A dark theme inspired by EdenEasts Nightfox, Carbonfox variant, nvim theme and Material Theme for syntax inspired colors"
 repository = "https://github.com/HurrellT/CarbonEmber"
+
+[carbonember]
+submodule = "extensions/carbonember"
+version = "1.0.0"
